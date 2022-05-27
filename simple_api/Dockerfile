@@ -1,4 +1,4 @@
-FROM python:2.7-stretch
+FROM python:3.7.11-stretch
 
 LABEL maintainer="DIALLO Mafouz <mafouzdiallo@gmail.com>"
 
