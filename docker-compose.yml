@@ -12,7 +12,7 @@ services:
     ports: 
         - 8090:80
   API:
-    image: student_list_api
+    image: student-list-api
     volumes: 
         - ./simple_api/student_age.json:/data/student_age.json
     ports: 
